@@ -3,6 +3,7 @@
   "version": "2.1.0",
   "description": "A very simple Javascript library that generates links to all methods in BigBlueButton's API",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +12,7 @@
     "url": "git+https://github.com/omsrivastava/bigbluebutton-api-js.git"
   },
   "keywords": [
-    "Bigbluebutton",
+    "bigbluebutton",
     "bbb",
     "bbb-api",
     "API",
