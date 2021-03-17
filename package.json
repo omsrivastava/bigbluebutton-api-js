@@ -1,6 +1,6 @@
 {
   "name": "bigbluebutton-api-js",
-  "version": "1.0.0",
+  "version": "2.1.0",
   "description": "A very simple Javascript library that generates links to all methods in BigBlueButton's API",
   "main": "index.js",
   "scripts": {
