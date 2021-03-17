@@ -23,8 +23,5 @@
   "bugs": {
     "url": "https://github.com/omsrivastava/bigbluebutton-api-js/issues"
   },
-  "homepage": "https://github.com/omsrivastava/bigbluebutton-api-js#readme",
-  "devDependencies": {
-    "coffee-script": "^1.12.7"
-  }
+  "homepage": "https://github.com/omsrivastava/bigbluebutton-api-js#readme"
 }
